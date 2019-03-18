@@ -1,3 +1,7 @@
+/**
+ * https://inventi.studio/en/blog/why-you-shouldnt-use-moment-js
+ */
+
 const moment                                 = require('moment');
 const dayjs                                  = require('dayjs')
 const { DateTime }                           = require('luxon')
